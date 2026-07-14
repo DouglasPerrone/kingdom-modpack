@@ -10,9 +10,9 @@
     "executable": "bin/javaw.exe"
   },
   "server": {
-    "host": "PREENCHER_ENDERECO_SERVIDOR",
+    "host": "redekingdom.com.br",
     "port": 25565,
-    "onlineMode": true
+    "onlineMode": false
   },
   "recommendedRamMb": 4096,
   "files": [],
