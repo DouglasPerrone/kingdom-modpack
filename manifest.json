@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "modpackVersion": "1.0.0",
+  "minecraftVersion": "1.21.4",
+  "loader": {
+    "type": "fabric",
+    "version": "0.19.3"
+  },
+  "java": {
+    "version": "21.0.11+10",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.11_10.zip",
+    "sha256": "be26677aaa20b39a62edcaab4c8857a8b76673b0f45abc0b6143b142b62717e4",
+    "executable": "jdk-21.0.11+10-jre/bin/javaw.exe"
+  },
+  "server": {
+    "host": "redekingdom.com.br",
+    "port": 25565,
+    "onlineMode": false
+  },
+  "recommendedRamMb": 4096,
+  "files": [],
+  "remove": [],
+  "preserve": [
+    "saves",
+    "screenshots",
+    "logs",
+    "options.txt"
+  ],
+  "jvmArgs": [],
+  "gameArgs": []
+}
