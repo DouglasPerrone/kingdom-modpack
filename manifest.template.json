@@ -11,7 +11,7 @@
   },
   "server": {
     "host": "redekingdom.com.br",
-    "port": 25565,
+    "port": 25571,
     "onlineMode": false
   },
   "recommendedRamMb": 4096,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.0",
+  "modpackVersion": "1.0.1",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -14,7 +14,7 @@
   },
   "server": {
     "host": "redekingdom.com.br",
-    "port": 25565,
+    "port": 25571,
     "onlineMode": false
   },
   "recommendedRamMb": 4096,
