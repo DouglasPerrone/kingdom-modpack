@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.3",
+  "modpackVersion": "1.0.4",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -18,6 +18,34 @@
     "onlineMode": false
   },
   "recommendedRamMb": 4096,
+  "news": [
+    {
+      "id": "central-noticias",
+      "title": "Uma nova central para o Reino",
+      "summary": "O launcher da Kingdom agora abre com as últimas novidades, atualizações e eventos em uma experiência moderna e integrada.",
+      "publishedAt": "2026-07-19",
+      "category": "update",
+      "featured": true,
+      "url": "https://github.com/DouglasPerrone/kingdom-launcher/releases/tag/v0.1.11",
+      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/1"
+    },
+    {
+      "id": "pacotes-separados",
+      "title": "Itens, mobs e sons independentes",
+      "summary": "Escolha separadamente quais personalizações da Kingdom deseja usar e preserve seus próprios pacotes.",
+      "publishedAt": "2026-07-19",
+      "category": "update",
+      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/2"
+    },
+    {
+      "id": "minecraft-1214",
+      "title": "A aventura continua na 1.21.4",
+      "summary": "Minecraft 1.21.4, Fabric e Java 21 preparados automaticamente para você entrar no servidor.",
+      "publishedAt": "2026-07-14",
+      "category": "event",
+      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/3"
+    }
+  ],
   "files": [
     {
       "path": "resourcepacks/Kingdom-Items.zip",
