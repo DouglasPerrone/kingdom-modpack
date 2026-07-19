@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.4",
+  "modpackVersion": "1.0.5",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -23,27 +23,27 @@
       "id": "central-noticias",
       "title": "Uma nova central para o Reino",
       "summary": "O launcher da Kingdom agora abre com as últimas novidades, atualizações e eventos em uma experiência moderna e integrada.",
+      "content": "Bem-vindo à nova central de notícias da Kingdom. A partir de agora, o launcher será o ponto principal para acompanhar tudo o que acontece no Reino.\n\nAtualizações do modpack, eventos especiais, avisos de manutenção e novidades do servidor aparecerão aqui automaticamente. Você não precisará baixar outra versão do launcher apenas para receber uma nova matéria.\n\nA navegação também foi renovada com uma barra inferior minimalista e um botão Jogar sempre ao alcance.",
       "publishedAt": "2026-07-19",
       "category": "update",
       "featured": true,
-      "url": "https://github.com/DouglasPerrone/kingdom-launcher/releases/tag/v0.1.11",
-      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/1"
+      "url": "https://github.com/DouglasPerrone/kingdom-launcher/releases/tag/v0.1.12"
     },
     {
       "id": "pacotes-separados",
       "title": "Itens, mobs e sons independentes",
       "summary": "Escolha separadamente quais personalizações da Kingdom deseja usar e preserve seus próprios pacotes.",
+      "content": "As personalizações da Kingdom agora estão divididas em três pacotes: itens, mobs e sons. Cada categoria pode ser ativada ou desativada nas configurações do launcher.\n\nEssa separação permite atualizar uma parte visual sem baixar novamente todos os outros recursos. Pacotes pessoais que você ativar no Minecraft continuam preservados.",
       "publishedAt": "2026-07-19",
-      "category": "update",
-      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/2"
+      "category": "update"
     },
     {
       "id": "minecraft-1214",
       "title": "A aventura continua na 1.21.4",
       "summary": "Minecraft 1.21.4, Fabric e Java 21 preparados automaticamente para você entrar no servidor.",
+      "content": "A Kingdom utiliza Minecraft 1.21.4 com Fabric e Java 21. O launcher cuida da instalação e verificação desses componentes automaticamente.\n\nBasta manter o modpack atualizado, escolher sua memória RAM e entrar no Reino. Os arquivos gerenciados são verificados por SHA-256 antes de serem utilizados.",
       "publishedAt": "2026-07-14",
-      "category": "event",
-      "commentsUrl": "https://github.com/DouglasPerrone/kingdom-modpack/discussions/3"
+      "category": "event"
     }
   ],
   "files": [
