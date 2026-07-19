@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.1",
+  "modpackVersion": "1.0.2",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -18,7 +18,14 @@
     "onlineMode": false
   },
   "recommendedRamMb": 4096,
-  "files": [],
+  "files": [
+    {
+      "path": "resourcepacks/Kingdom-Resources.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.2/Kingdom-Resources.zip",
+      "size": 3579,
+      "sha256": "2058ca6dcd59c097c66b6aaf0043bc29d5a8c1aeafbdf49b6cf46653caa77dd2"
+    }
+  ],
   "remove": [],
   "preserve": [
     "saves",
