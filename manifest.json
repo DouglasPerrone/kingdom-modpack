@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.2",
+  "modpackVersion": "1.0.3",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -20,10 +20,22 @@
   "recommendedRamMb": 4096,
   "files": [
     {
-      "path": "resourcepacks/Kingdom-Resources.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.2/Kingdom-Resources.zip",
-      "size": 3341,
-      "sha256": "bb0c153c6250ab12553785a6c6e55ade3577f272d5c5832e6cfafa5520e986f0"
+      "path": "resourcepacks/Kingdom-Items.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Items.zip",
+      "size": 3330,
+      "sha256": "6dacb465c3d2607f1b1b263f1feba06cab2f134ade91d7f9001e43bba443c2f5"
+    },
+    {
+      "path": "resourcepacks/Kingdom-Mobs.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Mobs.zip",
+      "size": 2350,
+      "sha256": "fb3b559f285b13be7538cc68bd4b51d7ff70e4b1a355ff8f8ba07a2a0dc6bc8a"
+    },
+    {
+      "path": "resourcepacks/Kingdom-Sounds.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Sounds.zip",
+      "size": 8995,
+      "sha256": "23cce67ae9ab994dbc5cf08a10160cf12c9ba72c2569a4180f0c81f59ad969ef"
     }
   ],
   "remove": [],
