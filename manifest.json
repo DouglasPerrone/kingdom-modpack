@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.5",
+  "modpackVersion": "1.0.6",
   "minecraftVersion": "1.21.4",
   "loader": {
     "type": "fabric",
@@ -20,13 +20,21 @@
   "recommendedRamMb": 4096,
   "news": [
     {
+      "id": "texturas-lite-full",
+      "title": "Kingdom Lite e Full",
+      "summary": "Agora você escolhe no lobby entre a versão leve e a experiência completa.",
+      "content": "As texturas da Kingdom agora possuem duas versões. A Lite é recomendada para computadores com 8 GB de RAM e mantém os itens, mobs, armaduras e efeitos necessários, sem as músicas. A Full preserva a qualidade completa e todas as músicas.\n\nA escolha é feita no lobby e pode ser alterada a qualquer momento com o comando /textura.",
+      "publishedAt": "2026-10-07",
+      "category": "update",
+      "featured": true
+    },
+    {
       "id": "central-noticias",
       "title": "Uma nova central para o Reino",
       "summary": "O launcher da Kingdom agora abre com as últimas novidades, atualizações e eventos em uma experiência moderna e integrada.",
       "content": "Bem-vindo à nova central de notícias da Kingdom. A partir de agora, o launcher será o ponto principal para acompanhar tudo o que acontece no Reino.\n\nAtualizações do modpack, eventos especiais, avisos de manutenção e novidades do servidor aparecerão aqui automaticamente. Você não precisará baixar outra versão do launcher apenas para receber uma nova matéria.\n\nA navegação também foi renovada com uma barra inferior minimalista e um botão Jogar sempre ao alcance.",
       "publishedAt": "2026-07-19",
       "category": "update",
-      "featured": true,
       "url": "https://github.com/DouglasPerrone/kingdom-launcher/releases/tag/v0.1.12"
     },
     {
@@ -46,27 +54,12 @@
       "category": "event"
     }
   ],
-  "files": [
-    {
-      "path": "resourcepacks/Kingdom-Items.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Items.zip",
-      "size": 3330,
-      "sha256": "6dacb465c3d2607f1b1b263f1feba06cab2f134ade91d7f9001e43bba443c2f5"
-    },
-    {
-      "path": "resourcepacks/Kingdom-Mobs.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Mobs.zip",
-      "size": 2350,
-      "sha256": "fb3b559f285b13be7538cc68bd4b51d7ff70e4b1a355ff8f8ba07a2a0dc6bc8a"
-    },
-    {
-      "path": "resourcepacks/Kingdom-Sounds.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/modpack-v1.0.3/Kingdom-Sounds.zip",
-      "size": 8995,
-      "sha256": "23cce67ae9ab994dbc5cf08a10160cf12c9ba72c2569a4180f0c81f59ad969ef"
-    }
+  "files": [],
+  "remove": [
+    "resourcepacks/Kingdom-Items.zip",
+    "resourcepacks/Kingdom-Mobs.zip",
+    "resourcepacks/Kingdom-Sounds.zip"
   ],
-  "remove": [],
   "preserve": [
     "saves",
     "screenshots",
