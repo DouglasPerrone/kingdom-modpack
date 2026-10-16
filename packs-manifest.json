@@ -1,10 +1,29 @@
 {
   "schemaVersion": 2,
-  "version": "2026.10.15.2",
+  "version": "2026.10.15.3",
   "defaultProfile": "lite",
   "packs": {
-    "full": {"file": "Kingdom-Full.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Full.zip", "size": 58294726, "sha1": "84a50bb9d86f2416d6213c4d5a0d821afc4e59ba", "sha256": "351bc434ccee0c162d4a05d1c858e42f3d51a603b9ca3de00ee3e04437f97bb3"},
-    "lite": {"file": "Kingdom-Lite.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Lite.zip", "size": 51190565, "sha1": "b96445496a62120b045349e103ccc8f850aa9a02", "sha256": "89fddd0699c68fca2792d2370a5bbf9078ecf0ec2ae476cc225ae279a55c4eb8"},
-    "creator": {"file": "Kingdom-Creator.zip", "size": 19886402, "sha1": "6771b284671519ecaf858ecc4885d8e6d7566512", "sha256": "ee9ab19dd5beb852973160636c5d86d6b1e7e7bb899ef7decfff4850bf0a5b20", "uuid": "8d66fe62-3628-4f91-8e31-b884ad3e49bd", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Creator.zip"}
+    "full": {
+      "file": "Kingdom-Full.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.3/Kingdom-Full.zip",
+      "size": 56790849,
+      "sha1": "9c669624263401ccb2b76efe3078648887c57f7c",
+      "sha256": "d7f9f92f821a0b15036a43b7461050873ccc43dc931aad87b7660d26d286079e"
+    },
+    "lite": {
+      "file": "Kingdom-Lite.zip",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.3/Kingdom-Lite.zip",
+      "size": 50034613,
+      "sha1": "027bdd9250b93364a9cdea26069817eafe06ab45",
+      "sha256": "141a7571850de7c61724c8e256e3195ce7ed25345a10f32ea20c47cb754edfae"
+    },
+    "creator": {
+      "file": "Kingdom-Creator.zip",
+      "size": 19886402,
+      "sha1": "6771b284671519ecaf858ecc4885d8e6d7566512",
+      "sha256": "ee9ab19dd5beb852973160636c5d86d6b1e7e7bb899ef7decfff4850bf0a5b20",
+      "uuid": "8d66fe62-3628-4f91-8e31-b884ad3e49bd",
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.3/Kingdom-Creator.zip"
+    }
   }
 }
