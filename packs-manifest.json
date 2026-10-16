@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "version": "2026.10.15.1",
+  "version": "2026.10.15.2",
   "defaultProfile": "lite",
   "packs": {
-    "full": {"file": "Kingdom-Full.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.1/Kingdom-Full.zip", "size": 54694036, "sha1": "588082c444fca50aa2a7ce09a265e6284051ac12", "sha256": "60e8e8528ff50cde15ca4e9dadf4e48e9b6b2e50736b37f5b53c64748789c6b7"},
-    "lite": {"file": "Kingdom-Lite.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.1/Kingdom-Lite.zip", "size": 47646721, "sha1": "01ce8b5e9feec0d6705e55e0c6b4018d488d593f", "sha256": "3428d77a3f602aea4c960c3880a2d32f4f086d8bf966834a78e040e9ce19d6b0"},
-    "creator": {"file": "Kingdom-Creator.zip", "size": 19886402, "sha1": "6771b284671519ecaf858ecc4885d8e6d7566512", "sha256": "ee9ab19dd5beb852973160636c5d86d6b1e7e7bb899ef7decfff4850bf0a5b20", "uuid": "8d66fe62-3628-4f91-8e31-b884ad3e49bd", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.1/Kingdom-Creator.zip"}
+    "full": {"file": "Kingdom-Full.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Full.zip", "size": 58294726, "sha1": "84a50bb9d86f2416d6213c4d5a0d821afc4e59ba", "sha256": "351bc434ccee0c162d4a05d1c858e42f3d51a603b9ca3de00ee3e04437f97bb3"},
+    "lite": {"file": "Kingdom-Lite.zip", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Lite.zip", "size": 51190565, "sha1": "b96445496a62120b045349e103ccc8f850aa9a02", "sha256": "89fddd0699c68fca2792d2370a5bbf9078ecf0ec2ae476cc225ae279a55c4eb8"},
+    "creator": {"file": "Kingdom-Creator.zip", "size": 19886402, "sha1": "6771b284671519ecaf858ecc4885d8e6d7566512", "sha256": "ee9ab19dd5beb852973160636c5d86d6b1e7e7bb899ef7decfff4850bf0a5b20", "uuid": "8d66fe62-3628-4f91-8e31-b884ad3e49bd", "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.15.2/Kingdom-Creator.zip"}
   }
 }
