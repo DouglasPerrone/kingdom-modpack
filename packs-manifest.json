@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.23.1",
+  "version": "2026.10.23.2",
   "defaultProfile": "lite",
   "packs": {
     "full": {
       "file": "Kingdom-Full.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.23.1/Kingdom-Full.zip",
-      "size": 58605814,
-      "sha1": "dfb827f5c26c22465b1b17bc8deda70b88529508",
-      "sha256": "5090b0d88ecbfa0c57c5d6c74feb45b5976847663f4987deb907b983ad8e6bc9"
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.23.2/Kingdom-Full.zip",
+      "size": 61034844,
+      "sha1": "b0d21ee16cc316cb7f6e8c68ea0d40cd861ab3c0",
+      "sha256": "ba8f49c5fed69304d7f3b6423d694bfb30b868cc00894b60fd0e4c38f775e823"
     },
     "lite": {
       "file": "Kingdom-Lite.zip",
-      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.23.1/Kingdom-Lite.zip",
-      "size": 51689206,
-      "sha1": "5ba9e71ca09f83c3264523095cb4c49839cdff4b",
-      "sha256": "798254c3f1570cafe8a87a4cd4399171071cac3ec54ebe3b5578a453474fc140"
+      "url": "https://github.com/DouglasPerrone/kingdom-modpack/releases/download/packs-v2026.10.23.2/Kingdom-Lite.zip",
+      "size": 54011873,
+      "sha1": "7f644b62e5cd5ee77178d32f00e0bbe74596e315",
+      "sha256": "5969a98b8a776cb0f4c8a67b605a842db8e175b471b570237b19dd960cd427bf"
     }
   }
 }
